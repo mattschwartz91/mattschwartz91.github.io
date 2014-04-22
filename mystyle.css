@@ -2,5 +2,5 @@ marquee{
   font-size: 4em;
   behavior: scroll;
   direction: left;
-  font-color: red;
+  color: red;
 }

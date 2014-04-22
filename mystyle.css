@@ -3,5 +3,5 @@ marquee{
   behavior: scroll;
   direction: left;
   color: red;
-  scrollamount: 15;
+  scrollamount: 25;
 }

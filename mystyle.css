@@ -8,7 +8,7 @@ marquee{
   margin: auto;
   height:100px;
   width:100%;
-  background-color:green;
-  border-radius: 0px;
+  background:green;
+  border: 1px;
 }
 

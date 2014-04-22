@@ -1,6 +1,7 @@
 marquee{
-  font-size: 4em;
+  font-size: 2em;
   behavior: scroll;
   direction: left;
   color: red;
+  scrollamount: 15;
 }

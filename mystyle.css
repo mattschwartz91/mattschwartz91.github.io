@@ -1,9 +1,11 @@
 marquee{
+  padding-top:15px;
   font-size: 2.5em;
   behavior: scroll;
   direction: left;
   color: red;
 }
+
 .header{
   margin: auto;
   height:100px;
@@ -11,4 +13,5 @@ marquee{
   background:green;
   border: 1px;
 }
+
 

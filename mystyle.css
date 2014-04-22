@@ -11,11 +11,15 @@ marquee{
 }
 
 .header{
-  margin: auto;
+  margin: 0 auto;
   height: 100px;
   width: 100%;
   background: #333333;
   border: 1px;
+}
+.left{
+  margin: 0 auto;
+  color: blue;
 }
 
 

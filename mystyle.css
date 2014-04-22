@@ -3,5 +3,10 @@ marquee{
   behavior: scroll;
   direction: left;
   color: red;
-  /*scrollamount: 25;*/
 }
+.header{
+  height:100px;
+  width:100%;
+  background-color:green;
+}
+

@@ -18,7 +18,7 @@ marquee{
   border: 1px;
 }
 .left{
-  margin-left: 0px;
+  text-align:left;
   color: blue;
 }
 

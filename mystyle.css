@@ -8,5 +8,6 @@ marquee{
   height:100px;
   width:100%;
   background-color:green;
+  border-radius: 0px;
 }
 

@@ -3,14 +3,14 @@ marquee{
   font-size: 2.5em;
   behavior: scroll;
   direction: left;
-  color: red;
+  color: green;
 }
 
 .header{
   margin: auto;
-  height:100px;
-  width:100%;
-  background:green;
+  height: 100px;
+  width: 100%;
+  background: black;
   border: 1px;
 }
 

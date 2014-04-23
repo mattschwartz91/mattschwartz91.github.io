@@ -17,19 +17,24 @@ body{
   width: 100%;
   border: solid;
 }
+
 .left{
+  padding-top:5px;
   text-align:left;
   color: #0099FF;
   width:525px;
   height:575px;
   border:solid;
 }
+
 .left img{
   margin-left: 35px;
   width: 450px;
   height: 500px;
 }
+
 .right1{
+  margin-right:10px;
   border: solid;
   margin: 0 auto;
   width:400;

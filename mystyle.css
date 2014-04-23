@@ -24,5 +24,10 @@ marquee{
   height:600px;
   background:#333333;
 }
+.left img{
+  margin: 0 auto;
+  width: 450px;
+  height: 450px;
+}
 
 

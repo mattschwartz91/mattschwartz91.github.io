@@ -2,7 +2,7 @@ body{
   background: black;
 }
 
-marquee{
+.header marquee{
   padding-top:25px;
   font-size: 2.5em;
   behavior: scroll;
@@ -31,8 +31,17 @@ marquee{
   height: 500px;
 }
 .right{
+  width:200;
+  height:500;
   color: #ffffff;
   text-align: right;
 }
 
+.right marquee{
+  padding-top:25px;
+  font-size: 2.5em;
+  behavior: alternate;
+  direction: left;
+  color: green;
+}
 

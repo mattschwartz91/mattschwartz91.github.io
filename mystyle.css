@@ -31,6 +31,8 @@ body{
   height: 500px;
 }
 .right{
+  background: #ffffff;
+  border: solid;
   width:200;
   height:500;
   color: #ffffff;

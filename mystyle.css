@@ -32,8 +32,9 @@ body{
 }
 .right1{
   border: solid;
-  width:200;
-  height:500;
+  margin: 0 auto;
+  width:400;
+  height:260;
   color: #ffffff;
   text-align: right;
 }

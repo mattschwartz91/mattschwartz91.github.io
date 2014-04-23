@@ -22,7 +22,7 @@ body{
   color: #0099FF;
   width:525px;
   height:575px;
-  background:#333333;
+  border:solid;
 }
 .left img{
   margin-top:15px;

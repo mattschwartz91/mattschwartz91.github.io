@@ -11,11 +11,11 @@ body{
 }
 
 .header{
+  color: white;
   margin: 0 auto;
   height: 100px;
   width: 100%;
-  background: #333333;
-  border: 1px;
+  border: solid;
 }
 .left{
   text-align:left;

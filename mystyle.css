@@ -40,8 +40,8 @@ body{
 .right1{
   margin-left:750px;
   border: solid;
-  width:400;
-  height:260;
+  width:650;
+  height:300;
   color: #ffffff;
   text-align: right;
 }
@@ -55,8 +55,9 @@ body{
 }
 
 .right1 img{
-  height:180px;
-  width:320px;
+  margin-right:80px;
+  height:200px;
+  width:500px;
 }
 
 .right2 img{

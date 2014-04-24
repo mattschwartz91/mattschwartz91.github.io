@@ -19,12 +19,14 @@ body{
 }
 
 .left{
-  padding-top:5px;
   text-align:left;
-  color: #0099FF;
+  color: #ffffff;
   width:525px;
   height:575px;
   border:solid;
+}
+.left h4{
+  color:green;
 }
 
 .left img{
@@ -45,8 +47,8 @@ body{
 .right1 marquee{
   padding-top:25px;
   font-size: 1.5em;
-  behavior: alternate;
-  direction: left;
+  behavior: scroll;
+  direction: right;
   color: green;
 }
 

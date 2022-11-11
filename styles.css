@@ -40,3 +40,9 @@ marquee {
     background-color: #FBE106;
     padding: 0px;
 }
+
+footer {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
